@@ -1,0 +1,15 @@
+C:\Users\adast\Documents\Mes projets\C#\TP Serialisation - Gestions d'une liste de jeux vidéo\bin\Debug\net10.0\TP Serialisation - Gestions d'une liste de jeux vidéo.exe
+C:\Users\adast\Documents\Mes projets\C#\TP Serialisation - Gestions d'une liste de jeux vidéo\bin\Debug\net10.0\TP Serialisation - Gestions d'une liste de jeux vidéo.deps.json
+C:\Users\adast\Documents\Mes projets\C#\TP Serialisation - Gestions d'une liste de jeux vidéo\bin\Debug\net10.0\TP Serialisation - Gestions d'une liste de jeux vidéo.runtimeconfig.json
+C:\Users\adast\Documents\Mes projets\C#\TP Serialisation - Gestions d'une liste de jeux vidéo\bin\Debug\net10.0\TP Serialisation - Gestions d'une liste de jeux vidéo.dll
+C:\Users\adast\Documents\Mes projets\C#\TP Serialisation - Gestions d'une liste de jeux vidéo\bin\Debug\net10.0\TP Serialisation - Gestions d'une liste de jeux vidéo.pdb
+C:\Users\adast\Documents\Mes projets\C#\TP Serialisation - Gestions d'une liste de jeux vidéo\obj\Debug\net10.0\TP Serialisation - Gestions d'une liste de jeux vidéo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adast\Documents\Mes projets\C#\TP Serialisation - Gestions d'une liste de jeux vidéo\obj\Debug\net10.0\TP Serialisation - Gestions d'une liste de jeux vidéo.AssemblyInfoInputs.cache
+C:\Users\adast\Documents\Mes projets\C#\TP Serialisation - Gestions d'une liste de jeux vidéo\obj\Debug\net10.0\TP Serialisation - Gestions d'une liste de jeux vidéo.AssemblyInfo.cs
+C:\Users\adast\Documents\Mes projets\C#\TP Serialisation - Gestions d'une liste de jeux vidéo\obj\Debug\net10.0\TP Serialisation - Gestions d'une liste de jeux vidéo.csproj.CoreCompileInputs.cache
+C:\Users\adast\Documents\Mes projets\C#\TP Serialisation - Gestions d'une liste de jeux vidéo\obj\Debug\net10.0\TP Serialisation - Gestions d'une liste de jeux vidéo.sourcelink.json
+C:\Users\adast\Documents\Mes projets\C#\TP Serialisation - Gestions d'une liste de jeux vidéo\obj\Debug\net10.0\TP Serialisation - Gestions d'une liste de jeux vidéo.dll
+C:\Users\adast\Documents\Mes projets\C#\TP Serialisation - Gestions d'une liste de jeux vidéo\obj\Debug\net10.0\refint\TP Serialisation - Gestions d'une liste de jeux vidéo.dll
+C:\Users\adast\Documents\Mes projets\C#\TP Serialisation - Gestions d'une liste de jeux vidéo\obj\Debug\net10.0\TP Serialisation - Gestions d'une liste de jeux vidéo.pdb
+C:\Users\adast\Documents\Mes projets\C#\TP Serialisation - Gestions d'une liste de jeux vidéo\obj\Debug\net10.0\TP Serialisation - Gestions d'une liste de jeux vidéo.genruntimeconfig.cache
+C:\Users\adast\Documents\Mes projets\C#\TP Serialisation - Gestions d'une liste de jeux vidéo\obj\Debug\net10.0\ref\TP Serialisation - Gestions d'une liste de jeux vidéo.dll
